@@ -35,7 +35,7 @@ First, clone the repository to your local machine:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/gemini-chatbot-interface.git
+git clone https://github.com/ahmetsezginn/gemini-chatbot-interface.git
 cd gemini-chatbot-interface
 ```
 
